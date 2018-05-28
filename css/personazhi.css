@@ -1,0 +1,664 @@
+body {
+  background-color: rgb(239, 255, 241);
+  font: 700 1.313em/1.38 Verdana;
+  color: rgb(51, 51, 51);
+}
+
+.element {
+  background-position: center center;
+}
+
+._button {
+  display: block;
+  position: relative;
+  height: 26px;
+  border-radius: 10px;
+  background-color: rgb(225, 255, 229);
+  text-align: center;
+  color: #333333;
+}
+
+._button:hover {
+  background-color: rgba(164, 231, 183, 0.97);
+}
+
+._button:active {
+  background-color: rgba(83, 210, 119, 0.97);
+}
+
+._button:focus {
+  background-color: rgb(218, 217, 86);
+}
+
+.container-1 {
+  width: 99.9%;
+  height: 2201px;
+  margin: 0 auto;
+}
+
+.container-10 {
+  float: left;
+  clear: both;
+  width: 102.6167265264%;
+  min-width: 1000px;
+  height: 257px;
+  max-height: 288px;
+  margin: 1px 0 0 -0.09941%;
+}
+
+.container-11 {
+  float: left;
+  clear: both;
+  width: 51.6%;
+  min-width: 750px;
+  max-width: 785px;
+  height: 257px;
+  max-height: 225px;
+  margin: -253px 0 0 44.2%;
+}
+
+.container-12 {
+  float: left;
+  clear: both;
+  width: 102.6167265264%;
+  min-width: 1000px;
+  height: 283px;
+  max-height: 288px;
+  margin-left: -0.09941%;
+}
+
+.container-13 {
+  float: left;
+  clear: both;
+  width: 51.7%;
+  min-width: 750px;
+  max-width: 785px;
+  height: 280px;
+  max-height: 225px;
+  margin: -257px 0 0 44.2%;
+}
+
+.container-14 {
+  float: left;
+  clear: both;
+  width: 102.6167265264%;
+  min-width: 1000px;
+  height: 280px;
+  max-height: 280px;
+  margin-left: -0.20203%;
+  padding-bottom: 13px;
+}
+
+.container-15 {
+  float: left;
+  clear: both;
+  width: 51.7%;
+  min-width: 750px;
+  max-width: 785px;
+  height: 280px;
+  max-height: 225px;
+  margin: -229px 0 0 44.2%;
+}
+
+.container-16 {
+  float: left;
+  clear: both;
+  width: 102.6167265264%;
+  min-width: 1000px;
+  height: 85px;
+  min-height: 83px;
+  margin-left: -0.09941%;
+  padding-bottom: 1px;
+  background-color: rgb(23, 151, 184);
+}
+
+.container-2 {
+  float: left;
+  width: 100.1001001001%;
+  min-width: 1000px;
+  margin: 8px 0 0 -0.1001%;
+  padding-bottom: 1px;
+}
+
+.container-3 {
+  width: 97.5475475475%;
+  height: 2003px;
+  margin: 38px auto 0;
+}
+
+.container-4 {
+  float: left;
+  clear: both;
+  width: 102.6167265264%;
+  min-width: 1000px;
+  height: 257px;
+  max-height: 288px;
+  margin-left: -0.09941%;
+}
+
+.container-5 {
+  float: left;
+  clear: both;
+  width: 52.5%;
+  min-width: 750px;
+  max-width: 785px;
+  max-height: 225px;
+  margin: -269px 0 0 43%;
+}
+
+.container-6 {
+  float: left;
+  clear: both;
+  width: 102.6167265264%;
+  min-width: 1000px;
+  height: 288px;
+  max-height: 288px;
+  margin: 5px 0 0 -0.09941%;
+}
+
+.container-7 {
+  float: left;
+  clear: both;
+  width: 52.6%;
+  min-width: 750px;
+  max-width: 785px;
+  height: 276px;
+  max-height: 225px;
+  margin: -260px 0 0 43.1%;
+}
+
+.container-8 {
+  float: left;
+  clear: both;
+  width: 102.6167265264%;
+  min-width: 1000px;
+  height: 288px;
+  max-height: 288px;
+  margin-left: -0.09941%;
+}
+
+.container-9 {
+  float: left;
+  clear: both;
+  width: 51.6%;
+  min-width: 750px;
+  max-width: 785px;
+  height: 279px;
+  max-height: 225px;
+  margin: -249px 0 0 44.2%;
+}
+
+.element-1 {
+  float: left;
+  width: 100%;
+  height: 56px;
+  margin-top: -253px;
+  background-image: url('../images/ADVENTURE-TIME-bg-pattern-image.jpg');
+  background-size: 433px auto;
+  background-attachment: fixed;
+  background-color: rgba(222, 222, 222, 0);
+}
+
+.element-10 {
+  float: left;
+  clear: both;
+  width: 102.6167265264%;
+  min-width: 1000px;
+  height: 31px;
+  min-height: 31px;
+  margin-left: -0.20203%;
+  background-image: url('../images/ADVENTURE-TIME-bg-pattern-image.jpg');
+  background-size: 433px auto;
+  background-attachment: fixed;
+  background-color: rgba(222, 222, 222, 0);
+}
+
+.element-11 {
+  float: left;
+  width: 31.8%;
+  height: 269px;
+  margin: -23px 0 0 2.1%;
+  background-image: url('../images/Ab673902-50e4-4553-9910-d4fd47d2848f.gif');
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-color: rgba(222, 222, 222, 0);
+}
+
+.element-13 {
+  float: left;
+  width: 31.8%;
+  height: 272px;
+  margin-left: 2.6%;
+  background-image: url('../images/72da843891a3c5ca4d4bdb72cf1e915d-d6dx5fu(2).gif');
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-color: rgba(222, 222, 222, 0);
+}
+
+.element-14 {
+  float: left;
+  clear: both;
+  width: 102.7193432529%;
+  min-width: 1000px;
+  height: 31px;
+  min-height: 31px;
+  background-image: url('../images/ADVENTURE-TIME-bg-pattern-image.jpg');
+  background-size: 433px auto;
+  background-attachment: fixed;
+  background-color: rgba(222, 222, 222, 0);
+}
+
+.element-15 {
+  float: left;
+  width: 31.8%;
+  height: 248px;
+  margin-left: 2.5%;
+  background-image: url('../images/marcelinehover_by_drawingdrawingdone-d6qk839.gif');
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-color: rgba(222, 222, 222, 0);
+}
+
+.element-12,
+.element-16,
+.element-6,
+.element-8 {
+  float: left;
+  clear: both;
+  width: 102.6167265264%;
+  min-width: 1000px;
+  height: 31px;
+  min-height: 31px;
+  margin-left: -0.09941%;
+  background-image: url('../images/ADVENTURE-TIME-bg-pattern-image.jpg');
+  background-size: 433px auto;
+  background-attachment: fixed;
+  background-color: rgba(222, 222, 222, 0);
+}
+
+.element-17 {
+  float: left;
+  clear: both;
+  width: 102.6167265264%;
+  min-width: 1000px;
+  height: 56px;
+  min-height: 56px;
+  margin-left: -0.09941%;
+  background-image: url('../images/ADVENTURE-TIME-bg-pattern-image.jpg');
+  background-size: 433px auto;
+  background-attachment: fixed;
+  background-color: rgba(222, 222, 222, 0);
+}
+
+.element-18 {
+  float: left;
+  width: 11%;
+  height: 82px;
+  margin-left: 6.99844%;
+  background-image: url('../images/facebook.png');
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-color: rgba(194, 57, 57, 0);
+}
+
+.element-19 {
+  float: right;
+  width: 10.625%;
+  height: 82px;
+  margin-right: 66.24844%;
+  background-image: url('../images/youtube.png');
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-color: rgba(194, 57, 57, 0);
+}
+
+.element-2 {
+  position: relative;
+  float: left;
+  z-index: 5;
+  width: 18.9%;
+  height: 104px;
+  margin: 13px 0 0 5.2%;
+  background-image: url('../images/Adventure_Time_with_Finn_Jake.png');
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-color: rgba(222, 222, 222, 0);
+}
+
+.element-2:hover {
+  border-radius: 33px 40px;
+  background-color: rgba(120, 234, 12, 0.18);
+}
+
+.element-2:active {
+  border-radius: 33px 40px;
+  background-color: rgba(146, 245, 52, 0.18);
+}
+
+.element-2:focus {
+  border-radius: 33px 40px;
+  background-color: rgba(146, 245, 52, 0.24);
+}
+
+.element-20 {
+  float: left;
+  clear: both;
+  width: 10.75%;
+  height: 82px;
+  margin: -82px 0 0 39.62344%;
+  background-image: url('../images/instagram.png');
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-color: rgba(194, 57, 57, 0);
+}
+
+.element-3 {
+  float: left;
+  clear: both;
+  width: 100.1001001001%;
+  min-width: 1000px;
+  height: 56px;
+  min-height: 56px;
+  margin-left: -0.1001%;
+  background-image: url('../images/ADVENTURE-TIME-bg-pattern-image.jpg');
+  background-size: 433px auto;
+  background-attachment: fixed;
+  background-color: rgba(222, 222, 222, 0);
+}
+
+.element-4 {
+  float: left;
+  width: 102.6167265264%;
+  min-width: 1000px;
+  height: 56px;
+  min-height: 56px;
+  margin: -6px 0 0 -0.09941%;
+  background-image: url('../images/ADVENTURE-TIME-bg-pattern-image.jpg');
+  background-size: 433px auto;
+  background-attachment: fixed;
+  background-color: rgba(222, 222, 222, 0);
+}
+
+.element-5 {
+  float: left;
+  width: 31.8%;
+  height: 272px;
+  margin-left: 2.6%;
+  background-image: url('../images/200w.gif');
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-color: rgba(222, 222, 222, 0);
+}
+
+.element-7 {
+  float: left;
+  width: 35%;
+  height: 288px;
+  margin: -23px 0 0 0.7%;
+  background-image: url('../images/7318210_orig_by_tasteslikeanya-da3c5n8.gif');
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-color: rgba(222, 222, 222, 0);
+}
+
+.element-9 {
+  float: left;
+  width: 31.8%;
+  height: 272px;
+  margin-left: 2.6%;
+  background-image: url('../images/Bmo-dance.gif');
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-color: rgba(222, 222, 222, 0);
+}
+
+.text-1 {
+  position: relative;
+  float: left;
+  z-index: 1;
+  width: 67.1%;
+  min-width: 667px;
+  min-height: 118px;
+  margin: 6px 0 0 5.2875%;
+  font-size: 1.905em;
+  text-align: center;
+  color: rgb(0, 0, 0);
+}
+
+.text-2 {
+  width: 37.6376376376%;
+  min-height: 39px;
+  margin: 234px auto 0;
+  border-bottom: 3px solid rgba(83, 210, 119, 0.97);
+  border-radius: 3px;
+  font-family: 'Trebuchet MS';
+  font-size: 2.286em;
+  text-align: center;
+  color: rgb(100, 103, 67);
+}
+
+.text-3 {
+  float: right;
+  width: 97.3333333333%;
+  max-height: 253px;
+  margin: -3px 1.14167% 0 0;
+  padding-bottom: 36px;
+  border: 2px solid rgb(228, 239, 200);
+  border-radius: 5px;
+  font-size: 1em;
+  text-align: center;
+  color: rgb(51, 51, 51);
+}
+
+.text-4 {
+  float: right;
+  width: 97.1482889733%;
+  max-height: 275px;
+  margin-right: 1.71042%;
+  padding-bottom: 32px;
+  border: 2px solid rgb(228, 239, 200);
+  border-radius: 5px;
+  font-size: 1.19em;
+  text-align: center;
+  color: rgb(51, 51, 51);
+}
+
+.text-5 {
+  float: right;
+  width: 99.0310077519%;
+  max-height: 245px;
+  margin-right: 0.96875%;
+  padding-bottom: 17px;
+  border: 2px solid rgb(228, 239, 200);
+  border-radius: 5px;
+  font-size: 1.333em;
+  text-align: center;
+  color: rgb(51, 51, 51);
+}
+
+.text-6 {
+  float: right;
+  width: 99.0310077519%;
+  max-height: 240px;
+  margin: 18px 1.1% 0 0;
+  padding-bottom: 26px;
+  border: 2px solid rgb(228, 239, 200);
+  border-radius: 5px;
+  font-size: 1em;
+  text-align: center;
+  color: rgb(51, 51, 51);
+}
+
+.text-7 {
+  float: right;
+  width: 98.8394584139%;
+  max-height: 250px;
+  margin-right: 1.16042%;
+  padding-bottom: 39px;
+  border: 2px solid rgb(228, 239, 200);
+  border-radius: 5px;
+  font-size: 1.381em;
+  text-align: center;
+  color: rgb(51, 51, 51);
+}
+
+.text-8 {
+  float: right;
+  width: 98.8394584139%;
+  max-height: 250px;
+  margin-right: 1.16042%;
+  padding-bottom: 1px;
+  border: 2px solid rgb(228, 239, 200);
+  border-radius: 5px;
+  font-size: 1.381em;
+  text-align: center;
+  color: rgb(51, 51, 51);
+}
+
+.text-9 {
+  float: left;
+  width: 34.4%;
+  min-height: 24px;
+  margin: -60px 0 0 58.4%;
+  font-family: 'Trebuchet MS';
+  font-size: 1.619em;
+  font-weight: 400;
+  color: #333333;
+}
+
+.container ._button-1 {
+  float: left;
+  clear: both;
+  z-index: 3;
+  width: 23.625%;
+  margin-left: 5.3125%;
+  font-size: 1.048em;
+}
+
+.container ._button-2 {
+  float: right;
+  z-index: 2;
+  width: 16.625%;
+  margin-right: 41.8125%;
+  font-size: 1.048em;
+}
+
+.container ._button-3 {
+  float: right;
+  clear: both;
+  z-index: 4;
+  width: 22%;
+  margin: -26px 5.3375% 0 0;
+  font-size: 0.952em;
+}
+
+.container ._button-3:active,
+.container ._button-3:hover {
+  color: rgb(51, 51, 51);
+}
+
+.text a,
+.text em,
+.text span {
+  border-top-width: 0;
+  border-right-width: 0;
+  border-bottom-width: 0;
+  border-left-width: 0;
+  border-color: transparent;
+  border-style: none;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  background-color: transparent;
+  font-family: inherit;
+  font-style: inherit;
+  font-size: inherit;
+  font-weight: inherit;
+  text-transform: inherit;
+  text-decoration: inherit;
+  letter-spacing: inherit;
+  word-spacing: inherit;
+  opacity: 1;
+  word-break: normal;
+  word-wrap: normal;
+  white-space: normal;
+}
+
+.text strong {
+  border-top-width: 0;
+  border-right-width: 0;
+  border-bottom-width: 0;
+  border-left-width: 0;
+  border-color: transparent;
+  border-style: none;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  background-color: transparent;
+  font-family: inherit;
+  font-style: inherit;
+  font-size: inherit;
+  font-weight: inherit;
+  text-transform: inherit;
+  text-decoration: inherit;
+  letter-spacing: inherit;
+  word-spacing: inherit;
+  color: rgba(83, 210, 119, 0.97);
+  opacity: 1;
+  word-break: normal;
+  word-wrap: normal;
+  white-space: normal;
+}
+
+.text-1 a {
+  color: rgb(218, 217, 86);
+}
+
+.text-1 em {
+  color: rgb(166, 164, 36);
+}
+
+.text-3 a,
+.text-4 a {
+  color: rgb(192, 80, 231);
+}
+
+.text-5 span {
+  color: rgb(95, 180, 159);
+}
+
+.text-6 span {
+  color: rgb(0, 0, 241);
+}
+
+.text-3 span,
+.text-4 span,
+.text-5 a,
+.text-6 a,
+.text-7 a {
+  color: rgb(241, 174, 35);
+}
+
+.text-7 span {
+  color: rgb(211, 104, 160);
+}
+
+.text-8 a {
+  color: rgba(164, 231, 183, 0.97);
+}
+
+.text-1 span,
+.text-3 em,
+.text-4 em,
+.text-5 em,
+.text-6 em,
+.text-7 em,
+.text-8 em {
+  color: rgb(23, 150, 184);
+}
+
+.text-8 span {
+  color: rgb(189, 16, 44);
+}

@@ -1,0 +1,525 @@
+body {
+  background-color: rgba(238, 255, 240, 0.99);
+  font: 700 1.375em/1.38 Verdana;
+  color: rgb(51, 51, 51);
+}
+
+.element {
+  background-position: center center;
+}
+
+._button {
+  display: block;
+  position: relative;
+  float: left;
+  height: 26px;
+  border-radius: 10px;
+  background-color: rgb(225, 255, 229);
+  text-align: center;
+  color: #333333;
+}
+
+._button:hover {
+  background-color: rgba(164, 231, 183, 0.97);
+}
+
+._button:active {
+  background-color: rgba(83, 210, 119, 0.97);
+}
+
+._button:focus {
+  background-color: rgb(218, 217, 86);
+}
+
+.container-1 {
+  float: left;
+  width: 100%;
+  min-width: 1000px;
+  height: 1812px;
+}
+
+.container-10,
+.container-4,
+.container-6,
+.container-8 {
+  float: left;
+  clear: both;
+  width: 52.5%;
+  min-width: 750px;
+  max-width: 785px;
+  max-height: 225px;
+  margin: -247px 0 0 40.8%;
+}
+
+.container-11,
+.container-3,
+.container-5,
+.container-7,
+.container-9 {
+  float: left;
+  clear: both;
+  width: 100%;
+  min-width: 1000px;
+  height: 257px;
+  max-height: 288px;
+}
+
+.container-12 {
+  float: left;
+  clear: both;
+  width: 52.5%;
+  min-width: 750px;
+  max-width: 785px;
+  max-height: 225px;
+  margin: -243px 0 0 39.9%;
+}
+
+.container-13 {
+  float: left;
+  clear: both;
+  width: 100%;
+  min-width: 1000px;
+  height: 83px;
+  min-height: 83px;
+  padding-bottom: 1px;
+  background-color: rgb(23, 151, 184);
+}
+
+.container-2 {
+  width: 100%;
+  min-width: 800px;
+  margin: 8px auto 0;
+  padding-bottom: 1px;
+}
+
+.element-1 {
+  position: relative;
+  float: left;
+  z-index: 4;
+  width: 18.9%;
+  height: 104px;
+  margin: 13px 0 0 5.2%;
+  background-image: url('../images/Adventure_Time_with_Finn_Jake.png');
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-color: rgba(222, 222, 222, 0);
+}
+
+.element-1:hover {
+  border-radius: 33px 40px;
+  background-color: rgba(120, 234, 12, 0.18);
+}
+
+.element-1:active {
+  border-radius: 33px 40px;
+  background-color: rgba(146, 245, 52, 0.18);
+}
+
+.element-1:focus {
+  border-radius: 33px 40px;
+  background-color: rgba(146, 245, 52, 0.24);
+}
+
+.element-10 {
+  float: left;
+  width: 31.8%;
+  min-width: 318px;
+  height: 257px;
+  min-height: 257px;
+  margin-left: 2.6%;
+  background-image: url('../images/%D0%9B%D0%B5%D0%B4.png');
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-color: rgba(222, 222, 222, 0);
+}
+
+.element-11 {
+  width: 100%;
+  min-width: 1000px;
+  height: 20px;
+  margin: 257px auto 0;
+  background-image: url('../images/ADVENTURE-TIME-bg-pattern-image.jpg');
+  background-size: 433px auto;
+  background-attachment: fixed;
+  background-color: rgba(222, 222, 222, 0);
+}
+
+.element-12 {
+  float: left;
+  width: 31.8%;
+  min-width: 318px;
+  height: 257px;
+  min-height: 257px;
+  margin-left: 2.6%;
+  background-image: url('../images/f0eb0516f719e7d992ac44d5792254af.jpg');
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-color: rgba(222, 222, 222, 0);
+}
+
+.element-13 {
+  width: 100%;
+  min-width: 1000px;
+  height: 20px;
+  margin: 268px auto 0;
+  background-image: url('../images/ADVENTURE-TIME-bg-pattern-image.jpg');
+  background-size: 433px auto;
+  background-attachment: fixed;
+  background-color: rgba(222, 222, 222, 0);
+}
+
+.element-14 {
+  float: left;
+  width: 11%;
+  height: 82px;
+  margin-left: 6.99844%;
+  background-image: url('../images/facebook.png');
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-color: rgba(194, 57, 57, 0);
+}
+
+.element-15 {
+  float: right;
+  width: 10.625%;
+  height: 82px;
+  margin-right: 66.24844%;
+  background-image: url('../images/youtube.png');
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-color: rgba(194, 57, 57, 0);
+}
+
+.element-16 {
+  float: left;
+  clear: both;
+  width: 10.75%;
+  height: 82px;
+  margin: -82px 0 0 39.62344%;
+  background-image: url('../images/instagram.png');
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-color: rgba(194, 57, 57, 0);
+}
+
+.element-2 {
+  float: left;
+  clear: both;
+  width: 100%;
+  min-width: 1000px;
+  height: 56px;
+  min-height: 56px;
+  background-image: url('../images/ADVENTURE-TIME-bg-pattern-image.jpg');
+  background-size: 433px auto;
+  background-attachment: fixed;
+  background-color: rgba(222, 222, 222, 0);
+}
+
+.element-3 {
+  float: left;
+  clear: both;
+  width: 100%;
+  min-width: 1000px;
+  height: 31px;
+  margin-top: 9px;
+  background-image: url('../images/ADVENTURE-TIME-bg-pattern-image.jpg');
+  background-size: 433px auto;
+  background-attachment: fixed;
+  background-color: rgba(222, 222, 222, 0);
+}
+
+.element-4 {
+  float: left;
+  width: 31.8%;
+  min-width: 318px;
+  height: 257px;
+  min-height: 257px;
+  margin-left: 2.6%;
+  background-image: url('../images/Candy_kingdom%20(1).jpg');
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-color: rgba(222, 222, 222, 0);
+}
+
+.element-6 {
+  float: left;
+  width: 31.8%;
+  min-width: 318px;
+  height: 257px;
+  min-height: 257px;
+  margin-left: 2.6%;
+  background-image: url('../images/S7e32_Fire_Kingdom(2).png');
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-color: rgba(222, 222, 222, 0);
+}
+
+.element-5,
+.element-7 {
+  float: left;
+  clear: both;
+  width: 100%;
+  min-width: 1000px;
+  height: 20px;
+  background-image: url('../images/ADVENTURE-TIME-bg-pattern-image.jpg');
+  background-size: 433px auto;
+  background-attachment: fixed;
+  background-color: rgba(222, 222, 222, 0);
+}
+
+.element-8 {
+  float: left;
+  width: 31.8%;
+  min-width: 318px;
+  height: 257px;
+  min-height: 257px;
+  margin-left: 2.6%;
+  background-image: url('../images/Hotdog.jpg');
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-color: rgba(222, 222, 222, 0);
+}
+
+.element-9 {
+  width: 100%;
+  min-width: 1000px;
+  height: 20px;
+  margin: 985px auto 0;
+  background-image: url('../images/ADVENTURE-TIME-bg-pattern-image.jpg');
+  background-size: 433px auto;
+  background-attachment: fixed;
+  background-color: rgba(222, 222, 222, 0);
+}
+
+.text-1 {
+  position: relative;
+  float: left;
+  z-index: 0;
+  width: 67.1%;
+  min-width: 667px;
+  min-height: 118px;
+  margin: 6px 0 0 5.6875%;
+  padding-bottom: 3px;
+  font-size: 1.818em;
+  text-align: center;
+  color: rgb(0, 0, 0);
+}
+
+.text-2 {
+  float: left;
+  clear: both;
+  width: 37.6%;
+  min-height: 39px;
+  margin: 9px 0 0 31.2%;
+  border-bottom: 3px solid rgba(83, 210, 119, 0.97);
+  border-radius: 3px;
+  font-family: 'Trebuchet MS';
+  font-size: 2.182em;
+  text-align: center;
+  color: rgb(100, 103, 67);
+}
+
+.text-3 {
+  float: right;
+  width: 97.3333333333%;
+  max-height: 225px;
+  margin: 11px 3.2% 0 0;
+  padding-bottom: 36px;
+  border: 2px solid rgb(228, 239, 200);
+  border-radius: 5px;
+  font-size: 1em;
+  text-align: center;
+  color: rgb(51, 51, 51);
+}
+
+.text-4 {
+  float: right;
+  width: 97.3333333333%;
+  max-height: 225px;
+  margin: 7px 3.33125% 0 0;
+  padding-bottom: 36px;
+  border: 2px solid rgb(228, 239, 200);
+  border-radius: 5px;
+  font-size: 0.955em;
+  text-align: center;
+  color: rgb(51, 51, 51);
+}
+
+.text-5 {
+  float: right;
+  width: 97.3333333333%;
+  max-height: 225px;
+  margin: 6px 3.99375% 0 0;
+  padding-bottom: 36px;
+  border: 2px solid rgb(228, 239, 200);
+  border-radius: 5px;
+  font-size: 1em;
+  text-align: center;
+  color: rgb(51, 51, 51);
+}
+
+.text-6 {
+  float: right;
+  width: 97.3333333333%;
+  max-height: 225px;
+  margin: 12px 3.46667% 0 0;
+  padding-bottom: 36px;
+  border: 2px solid rgb(228, 239, 200);
+  border-radius: 5px;
+  font-size: 1em;
+  text-align: center;
+  color: rgb(51, 51, 51);
+}
+
+.text-7 {
+  float: right;
+  width: 97.3333333333%;
+  max-height: 225px;
+  margin-right: 1.74167%;
+  padding-bottom: 36px;
+  border: 2px solid rgb(228, 239, 200);
+  border-radius: 5px;
+  font-size: 1.227em;
+  text-align: center;
+  color: rgb(51, 51, 51);
+}
+
+.text-8 {
+  float: left;
+  width: 32.875%;
+  min-height: 24px;
+  margin: -60px 0 0 58.39844%;
+  font-family: 'Trebuchet MS';
+  font-size: 1.182em;
+  color: #333333;
+}
+
+.container ._button-1 {
+  clear: both;
+  z-index: 2;
+  width: 20.3%;
+  margin-left: 6.6%;
+  font-size: 1em;
+}
+
+.container ._button-2 {
+  z-index: 1;
+  width: 16.625%;
+  margin-left: 13.475%;
+  font-size: 1em;
+}
+
+.container ._button-3 {
+  z-index: 3;
+  width: 22%;
+  margin-left: 13.725%;
+  font-size: 0.909em;
+}
+
+.container ._button-3:active,
+.container ._button-3:hover {
+  color: rgb(51, 51, 51);
+}
+
+.text a,
+.text em,
+.text span {
+  border-top-width: 0;
+  border-right-width: 0;
+  border-bottom-width: 0;
+  border-left-width: 0;
+  border-color: transparent;
+  border-style: none;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  background-color: transparent;
+  font-family: inherit;
+  font-style: inherit;
+  font-size: inherit;
+  font-weight: inherit;
+  text-transform: inherit;
+  text-decoration: inherit;
+  letter-spacing: inherit;
+  word-spacing: inherit;
+  opacity: 1;
+  word-break: normal;
+  word-wrap: normal;
+  white-space: normal;
+}
+
+.text strong {
+  border-top-width: 0;
+  border-right-width: 0;
+  border-bottom-width: 0;
+  border-left-width: 0;
+  border-color: transparent;
+  border-style: none;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  background-color: transparent;
+  font-family: inherit;
+  font-style: inherit;
+  font-size: inherit;
+  font-weight: inherit;
+  text-transform: inherit;
+  text-decoration: inherit;
+  letter-spacing: inherit;
+  word-spacing: inherit;
+  color: inherit;
+  opacity: 1;
+  word-break: normal;
+  word-wrap: normal;
+  white-space: normal;
+}
+
+.text-1 a {
+  color: rgb(218, 217, 86);
+}
+
+.text-1 em {
+  color: rgb(166, 164, 36);
+}
+
+.text-1 span,
+.text-3 em {
+  color: rgb(23, 150, 184);
+}
+
+.text-3 span,
+.text-4 span {
+  color: rgb(227, 178, 220);
+}
+
+.text-5 span {
+  color: rgb(140, 100, 17);
+}
+
+.text-3 a,
+.text-4 a,
+.text-5 a,
+.text-6 a {
+  color: rgba(83, 210, 119, 0.97);
+}
+
+.text-6 span {
+  color: rgb(70, 183, 222);
+}
+
+.text-7 a {
+  color: rgb(109, 15, 38);
+}
+
+.text-4 em,
+.text-5 em,
+.text-6 em,
+.text-7 em {
+  color: rgb(208, 48, 35);
+}
+
+.text-7 span {
+  color: rgb(64, 111, 43);
+}

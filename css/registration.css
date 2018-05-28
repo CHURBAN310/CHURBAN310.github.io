@@ -1,0 +1,335 @@
+body {
+  background-color: rgba(238, 255, 240, 0.99);
+  font: 700 2.5em/1.38 Verdana;
+  color: rgb(0, 0, 0);
+}
+
+.checkbox {
+  display: block;
+  float: left;
+  margin: 19px 0 0 -2.02014%;
+}
+
+.checkbox-label {
+  display: block;
+  width: 48.8850771869%;
+  min-width: 285px;
+  height: 94px;
+  margin: 45px auto 0;
+  padding: 23px;
+  border-radius: 20px;
+  background-color: rgb(212, 242, 250);
+}
+
+.checkbox-label .element {
+  float: left;
+  clear: both;
+  width: 65px;
+  height: 53px;
+  margin: -45px 0 0 76.54942%;
+  background-image: url('../images/2000px-RecaptchaLogo.svg.png');
+  background-color: rgba(222, 222, 222, 0);
+}
+
+.checkbox-label .text {
+  width: 61.5044247787%;
+  margin: 11px 0 0 4.17103%;
+  padding: 2px 2px 3px;
+  font-family: Helvetica;
+  font-size: 0.55em;
+  font-weight: 400;
+  color: rgb(51, 51, 51);
+}
+
+.element {
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center center;
+}
+
+.text {
+  float: left;
+}
+
+._button {
+  display: block;
+  text-align: center;
+}
+
+._input {
+  display: block;
+  width: 94.3396226415%;
+  height: 39px;
+  margin-right: auto;
+  margin-left: auto;
+  padding: 0 10px;
+  background-color: rgb(242, 242, 242);
+  font-size: 0.325em;
+  font-weight: 400;
+  color: rgb(51, 51, 51);
+}
+
+._input:hover {
+  border: 1px solid rgba(204, 242, 215, 0.97);
+}
+
+._input:active {
+  border: 1 solid rgba(40, 151, 71, 0.97);
+}
+
+._input:focus {
+  border: 1 solid rgb(23, 48, 42);
+}
+
+.container-1 {
+  float: left;
+  width: 100%;
+  min-width: 1000px;
+  height: 816px;
+}
+
+.container-2 {
+  width: 100%;
+  min-width: 800px;
+  margin: 8px auto 0;
+  padding-bottom: 1px;
+}
+
+.container-3 {
+  float: left;
+  clear: both;
+  width: 58.3%;
+  min-width: 583px;
+  height: 512px;
+  margin: 74px 0 0 20.8%;
+}
+
+.container-4 {
+  float: left;
+  clear: both;
+  width: 100%;
+  min-width: 1000px;
+  height: 83px;
+  min-height: 83px;
+  margin-top: 54px;
+  padding-bottom: 1px;
+  background-color: rgb(23, 151, 184);
+}
+
+.element-1 {
+  float: left;
+  width: 18.9%;
+  height: 104px;
+  margin: 13px 0 0 5.2%;
+  background-image: url('../images/Adventure_Time_with_Finn_Jake.png');
+  background-color: rgba(222, 222, 222, 0);
+}
+
+.element-1:hover {
+  border-radius: 33px 40px;
+  background-color: rgba(120, 234, 12, 0.18);
+}
+
+.element-1:active {
+  border-radius: 33px 40px;
+  background-color: rgba(146, 245, 52, 0.18);
+}
+
+.element-1:focus {
+  border-radius: 33px 40px;
+  background-color: rgba(146, 245, 52, 0.24);
+}
+
+.element-3 {
+  float: left;
+  width: 11%;
+  height: 82px;
+  margin-left: 6.99844%;
+  background-image: url('../images/facebook.png');
+  background-color: rgba(194, 57, 57, 0);
+}
+
+.element-4 {
+  float: right;
+  width: 10.625%;
+  height: 82px;
+  margin-right: 66.24844%;
+  background-image: url('../images/youtube.png');
+  background-color: rgba(194, 57, 57, 0);
+}
+
+.element-5 {
+  float: left;
+  clear: both;
+  width: 10.75%;
+  height: 82px;
+  margin: -82px 0 0 39.62344%;
+  background-image: url('../images/instagram.png');
+  background-color: rgba(194, 57, 57, 0);
+}
+
+.text-1 {
+  position: relative;
+  z-index: 0;
+  width: 67.1%;
+  min-width: 667px;
+  min-height: 118px;
+  margin: 22px 0 0 5.7875%;
+  font-size: 1em;
+  text-align: center;
+  color: rgb(0, 0, 0);
+}
+
+.text-3 {
+  width: 32.875%;
+  min-height: 24px;
+  margin: -60px 0 0 58.39844%;
+  font-family: 'Trebuchet MS';
+  font-size: 0.65em;
+  color: #333333;
+}
+
+.container ._button-1 {
+  position: relative;
+  float: left;
+  clear: both;
+  z-index: 1;
+  width: 28.4999999999%;
+  height: 57px;
+  margin: -16px 0 0 35.75%;
+  border-radius: 10px;
+  background-color: rgb(225, 255, 229);
+  font-size: 1.075em;
+  color: #333333;
+}
+
+.container ._button-1:hover {
+  background-color: rgba(164, 231, 183, 0.97);
+}
+
+.container ._button-1:active {
+  background-color: rgba(83, 210, 119, 0.97);
+}
+
+.container ._button-1:focus {
+  background-color: rgb(218, 217, 86);
+}
+
+.container ._button-2 {
+  width: 51.114922813%;
+  height: 60px;
+  margin: 12px auto 0;
+  border-radius: 3px;
+  background-color: rgba(222, 222, 222, 0);
+  font-family: Helvetica;
+  font-size: 0.775em;
+  color: rgb(51, 51, 51);
+}
+
+.container ._button-2:hover {
+  border: 1px solid rgb(105, 126, 69);
+  color: rgb(105, 126, 69);
+}
+
+.container ._button-2:active {
+  border: 1 solid rgb(117, 164, 61);
+  color: rgb(117, 164, 61);
+}
+
+.container ._button-2:focus {
+  border: 1 solid rgb(54, 179, 50);
+  color: rgb(54, 179, 50);
+}
+
+.container ._input-1 {
+  margin-top: 50px;
+}
+
+.container ._input-2 {
+  margin-top: 60px;
+}
+
+.container ._input-3 {
+  margin-top: 64px;
+}
+
+.text a {
+  border-top-width: 0;
+  border-right-width: 0;
+  border-bottom-width: 0;
+  border-left-width: 0;
+  border-color: transparent;
+  border-style: none;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  background-color: transparent;
+  font-family: inherit;
+  font-style: inherit;
+  font-size: inherit;
+  font-weight: inherit;
+  text-transform: inherit;
+  text-decoration: inherit;
+  letter-spacing: inherit;
+  word-spacing: inherit;
+  color: rgb(218, 217, 86);
+  opacity: 1;
+  word-break: normal;
+  word-wrap: normal;
+  white-space: normal;
+}
+
+.text em {
+  border-top-width: 0;
+  border-right-width: 0;
+  border-bottom-width: 0;
+  border-left-width: 0;
+  border-color: transparent;
+  border-style: none;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  background-color: transparent;
+  font-family: inherit;
+  font-style: inherit;
+  font-size: inherit;
+  font-weight: inherit;
+  text-transform: inherit;
+  text-decoration: inherit;
+  letter-spacing: inherit;
+  word-spacing: inherit;
+  color: rgb(166, 164, 36);
+  opacity: 1;
+  word-break: normal;
+  word-wrap: normal;
+  white-space: normal;
+}
+
+.text span {
+  border-top-width: 0;
+  border-right-width: 0;
+  border-bottom-width: 0;
+  border-left-width: 0;
+  border-color: transparent;
+  border-style: none;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  background-color: transparent;
+  font-family: inherit;
+  font-style: inherit;
+  font-size: inherit;
+  font-weight: inherit;
+  text-transform: inherit;
+  text-decoration: inherit;
+  letter-spacing: inherit;
+  word-spacing: inherit;
+  color: rgb(23, 150, 184);
+  opacity: 1;
+  word-break: normal;
+  word-wrap: normal;
+  white-space: normal;
+}
